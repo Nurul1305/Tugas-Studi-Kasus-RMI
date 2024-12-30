@@ -1,10 +1,5 @@
-# Tugas 3: Aplikasi Perhitungan Diskon
-
-### Pembuat
-- **Nama**: Ferdhyan Dwi Rangga Saputra
-- **NPM**: 2210010171
-
----
+# Tugas Studi Kasus RMI
+Oleh Kelompok 4
 
 ## 1. Deskripsi Program
 Aplikasi ini memungkinkan pengguna untuk:
@@ -123,19 +118,4 @@ Menyediakan riwayat perhitungan diskon yang telah dilakukan untuk membantu pengg
         JOptionPane.showMessageDialog(this, "Input tidak valid! Pastikan harga asli dan kupon berupa angka.");
     }
 ```
-## 6. Tampilan Aplikasi Saat di Run
 
-![image](https://github.com/user-attachments/assets/1d90f146-5197-4369-af91-e88e34e25c04)
-
-## 7. Indikator Penilaian
-
-| No  | Komponen          | Persentase |
-| :-: | ------------------ | :--------: |
-|  1  | Komponen GUI      |     20%    |
-|  2  | Logika Program    |     20%    |
-|  3  | Events            |     15%    |
-|  4  | Kesesuaian UI     |     15%    |
-|  5  | Memenuhi Variasi  |     30%    |
-|     | **TOTAL**         |  **100%**  |
-
---- 
